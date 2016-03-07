@@ -1,0 +1,15 @@
+${slide: Pillar}$
+
+${columns}$
+
+${column:width=60}$
+
+bla
+
+${column:40}$
+
+bla
+
+${endColumns}$
+
+${endColumns}$
