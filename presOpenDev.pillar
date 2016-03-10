@@ -1,15 +1,68 @@
-${slide: Pillar}$
+${slide: Projet}$
 
 ${columns}$
 
-${column:width=60}$
+${column:width=100}$
 
-bla
+- Bug dans la documentation de Pillar
+-- Résolution d'une Issue de bug
 
-${column:40}$
-
-bla
-
-${endColumns}$
+- AsciiDoc Exporter
+-- Création d'un exporter pour Pillar
 
 ${endColumns}$
+
+${slide: Timeline}$
+
+- Première Semaine : Apprentissage plus poussé de Pharo
+- Deuxième Semaine : Choix du sujet et présentation de Pillar
+- 18/01 -> 22/01   : Bug dans la documentation de Pillar
+- 29/01 -> 10/03   : AsciiDoc Exporter
+-- Découverte de Pillar et son visiteur
+-- Découverte d'AsciiDoc
+-- Commencement avec des méthodes faciles
+
+${slide: Contributions}$
+
+Documentation de Pillar :
+
+- Closed Issue
+--*>https://github.com/SquareBracketAssociates/EnterprisePharo/issues/58*
+--*>https://github.com/pillar-markup/pillar/issues/92*
+- Pull request
+--*>https://github.com/SquareBracketAssociates/EnterprisePharo/pull/59*
+- Commits
+--*>https://github.com/SquareBracketAssociates/EnterprisePharo/commit/cdaa3b0ab93399f9a8076ecdbe185efdc43ebeca*
+
+AsciiDocExporter :
+
+- Repository
+--*>http://smalltalkhub.com/#!/~Pier/Pillar/*
+- Commits
+
+${slide: Communications}$
+
+Documentation de Pillar :
+
+- Issues de GitHub
+- Verbal avec Damien
+- Demande de compte pour le Jenkins
+
+AsciiDoc Exporter :
+
+- Verbal avec Damien
+- Annonce de release sur la mailing-list
+
+
+${slide: Apprentissages}$
+
+- Découverte de Pharo
+-- Nouveau language
+-- Nouvel environement de développement
+-- Communauté active
+
+- Découverte de Pillar
+-- Visiteur taille réelle
+-- Projet de grande taille
+-- Nombreux utilisateurs
+
